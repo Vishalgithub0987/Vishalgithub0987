@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Vishal Sangeeth V<br>-👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently learning the Full Stack Development<br>- 🧩Skilled in problem-solving<br>- 💡 Creative Thinker and new ideas<br>- 🧠 Continuous Learner and best practices<br>- 🔗 exciting projects to contribute to on GitHub<br>- 📫 How to reach me vishalsangeeth71@gmail.com
+-👋 Hi, I’m Vishal Sangeeth V<br>-👀 I’m interested in Full Stack Development<br>- 🌱 I’m currently learning  Full Stack Development<br>- 🧩Skilled in problem-solving<br>- 💡 Creative Thinker and new ideas<br>- 🧠 Continuous Learner and best practices<br>- 🔗 exciting projects to contribute to on GitHub<br>- 📫 How to reach me vishalsangeeth71@gmail.com
 
 
 ## 🌐 Socials:
